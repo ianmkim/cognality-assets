@@ -1,2 +1,2 @@
 newmtl Mesh
-map_Kd .././images/diffuse.png
+map_Kd diffuse.png
